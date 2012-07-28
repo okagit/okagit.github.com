@@ -1,4 +1,5 @@
 .. okagit Documentation master file.
+.. title:: トップページ - 岡山gitユーザ会
 
 .. toctree::
    :maxdepth: 2
@@ -14,6 +15,8 @@
 
 参加資格は
 ==========
+
+岡山周辺でgitを使っている／gitに興味がある人であれば、既にgitユーザ会の一員です（ｷﾘｯ
 
 メーリングリストやグループは今のところありません。要望があれば作るかもしれません。
 
@@ -47,13 +50,15 @@ Twitterハッシュタグ
      - タイトル
      - 場所
    * - 2012/6/16
-     - 岡山git勉強会 201206
-     - `奉還町リブラ <http://www.houkancho.com/info/ribura/sub3liburaProf.htm>`_
+     - :doc:`_events/study201206`
+     - `奉還町りぶら <http://www.houkancho.com/info/ribura/sub3liburaProf.htm>`_
 
 |
 
 okagitカレンダー
 ================
+
+okagit関連のイベントカレンダーです。
 
 .. raw:: html
 
